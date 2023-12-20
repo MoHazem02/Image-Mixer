@@ -42,7 +42,7 @@ The application relies on the following Python libraries:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tahaaa22/Image-Mixer.git
+   git clone https://github.com/MoHazem02/Image-Mixer.git
    cd Image-Mixer
    ```
 
